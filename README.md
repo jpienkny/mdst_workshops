@@ -1,2 +1,2 @@
 # mdst_workshops
-Jedidiah Pienkny's pre-project workshop materials.
+Jedidiah Pienkny's pre-project checkpointsmaterials.
